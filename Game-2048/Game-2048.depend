@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1651307705 source:c:\users\huzai\documents\github\2048-game-c-fiverr-20\game-2048\main.c
+	<stdio.h>
+	<ctype.h>
+	<time.h>
+	<stdlib.h>
+	<stdbool.h>
+	<windows.h>
+
