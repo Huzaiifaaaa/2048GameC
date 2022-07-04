@@ -114,7 +114,7 @@ int main()
             gameOverFlag = true;
             continueFlag = false;
 
-            printf("\n\n      Press 'Enter' to continue");
+            printf("\n\n      Press Enter To Continue!");
             getchar();
 
             do//asking user if he want to play again
